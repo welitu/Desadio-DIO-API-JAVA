@@ -50,6 +50,6 @@ AS
 ggc
 ggn
 nbg
-hjvvn
+hjv
 
 
