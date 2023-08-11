@@ -50,6 +50,5 @@ AS
 ggc
 ggn
 n
-hjv
-
+h
 
