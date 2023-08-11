@@ -49,7 +49,7 @@ Abaixo, seguem links bem bacanas, sobre tópicos mencionados durante o projeto:
 AS
 ggc
 ggn
-nbg
+n
 hjv
 
 
