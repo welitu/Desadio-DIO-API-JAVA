@@ -65,8 +65,7 @@ d
 as
 da
 a
-as
-da
+a
 sfasfa
 fa
 asdasfas
