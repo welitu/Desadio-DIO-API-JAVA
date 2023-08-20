@@ -50,7 +50,7 @@ AS
 ggc
 ggn
 ha
-asd
+as
 asad
 asd
 a
